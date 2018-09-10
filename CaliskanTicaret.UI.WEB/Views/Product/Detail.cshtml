@@ -1,0 +1,47 @@
+﻿@model CaliskanTicaret.Core.Model.Entity.Product
+
+@{
+    ViewBag.Title = "Ürün Detayı";
+}
+
+<h2>Ürün Detayı</h2>
+
+<div class="productBox">
+    <p class="title">@Model.Name</p>
+    <img src="@Model.ImageUrl" />
+    <p>
+        @Model.Brand
+    </p>
+    <p>
+        @Model.Price.ToString("##,## ₺")
+    </p>
+    <p>
+        @Model.Description
+    </p>
+    <a href="#" class="btn btn-default"><i class="fas fa-shopping-basket"></i>Sepete At</a>
+</div>
+
+<div class="row"></div>
+
+<style>
+    .productBox {
+        width: 200px;
+        float: left;
+        margin: 10px;
+        border: 2px solid #524747;
+        padding: 10px;
+    }
+
+        .productBox img {
+            width: 100%;
+        }
+
+        .productBox title {
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .productBox p {
+            text-align: center;
+        }
+</style>

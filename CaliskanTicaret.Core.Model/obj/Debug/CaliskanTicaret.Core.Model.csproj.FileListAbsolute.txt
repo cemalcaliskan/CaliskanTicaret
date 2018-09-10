@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\bin\Debug\CaliskanTicaret.Core.Model.dll.config
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\bin\Debug\CaliskanTicaret.Core.Model.dll
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\bin\Debug\CaliskanTicaret.Core.Model.pdb
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\bin\Debug\EntityFramework.xml
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\obj\Debug\CaliskanTicaret.Core.Model.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\obj\Debug\CaliskanTicaret.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\obj\Debug\CaliskanTicaret.Core.Model.csproj.CopyComplete
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\obj\Debug\CaliskanTicaret.Core.Model.dll
+C:\Users\PC\source\repos\CaliskanTicaret\CaliskanTicaret.Core.Model\obj\Debug\CaliskanTicaret.Core.Model.pdb

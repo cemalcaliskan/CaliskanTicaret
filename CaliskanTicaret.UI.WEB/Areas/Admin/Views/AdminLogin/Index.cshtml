@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Caliskan Ticaret Admin Girişi</title>
+</head>
+<body>
+    <div> 
+        <form method="post">
+            @Html.Label("Email:")
+            @Html.TextBox("Email")
+            <div class="row"></div>
+            @Html.Label("Şifre:")
+            @Html.Password("Password")
+            <div class="row"></div>
+            <button type="submit">Giriş Yap</button>
+        </form>
+    </div>
+</body>
+</html>
